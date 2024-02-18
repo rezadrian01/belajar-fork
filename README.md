@@ -1,2 +1,3 @@
 # belajar-fork
-**hanya dibuat untuk latihan materi fork**
+**pengalaman belajar di dicoding**<br>
+belajar di dicoding itu seru dan materinya mudah dipahami
